@@ -1,0 +1,93 @@
+# use glob syntax.
+syntax: glob
+
+*.dat
+*.class
+
+# Ignore folders
+bin
+out
+target
+.metadata
+.settings
+.idea
+
+
+# User-specific IntlliJ workspace:
+.idea/workspace.xml
+
+# LaTex generated files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.pdf
+*.synctex.gz
+*.toc
+
+# Ignore Image Extensions
+*.tif
+*.tiff
+*.lif
+*.liff
+*.zvi
+*.psd # photoshop images
+
+# Ignore Files
+*.lnk
+Thumbs.db
+.DS_Store
+*.db
+*.swp
+*.Rhistory # from RStudio
+
+
+# Ignore Extensions
+*.jar
+*.exe
+*.zip
+*.7z
+*.tar.gz
+*.tar
+*.ipl
+*.ips
+*.xlsx
+*.xls
+*.ppt
+*.pptx
+*.csv
+*.index
+*.class
+*.doc
+*.docx
+*.classpath
+*.maf # leica position list xml(ish) file
+*.iml
+
+# Multimedia Extensions
+*.mp3
+*.mpeg
+*.avi
+*.mov
+*.wma
+*.wmv
+*.mp4
+
+
+# Matlab Extension
+*.mat
+*.asv
+*.prj
+*.fig
+
+# Special Cases
+Image_Segmentation/FogBank_Segmentation/FogBank_GUI/compiled_FogBank_GUI/
+Image_Stitching/MIST_Performance_Evaluation/SSBD/HDD_results/
+Image_Stitching/MIST_Performance_Evaluation/overlap/HDD_results/
+Image_Stitching/MIST_Performance_Evaluation/low_memory_MIST_performance/results/
+Image_Stitching/MIST_Performance_Evaluation/limitations/*.png
+Image_Stitching/MIST_Performance_Evaluation/io_performance/results/
+Image_Stitching/MIST_Performance_Evaluation/grid_size/HDD_results/
+Image_Stitching/MIST_Performance_Evaluation/SSBD/SSD_results/
+Image_Stitching/MIST_Performance_Evaluation/figs/
