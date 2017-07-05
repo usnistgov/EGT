@@ -10,11 +10,7 @@ out
 target
 .metadata
 .settings
-.idea
 
-
-# User-specific IntlliJ workspace:
-.idea/workspace.xml
 
 # LaTex generated files
 *.aux
@@ -44,7 +40,6 @@ Thumbs.db
 
 
 # Ignore Extensions
-*.jar
 *.exe
 *.zip
 *.7z
@@ -63,7 +58,7 @@ Thumbs.db
 *.docx
 *.classpath
 *.maf # leica position list xml(ish) file
-*.iml
+
 
 # Multimedia Extensions
 *.mp3
@@ -82,12 +77,4 @@ Thumbs.db
 *.fig
 
 # Special Cases
-Image_Segmentation/FogBank_Segmentation/FogBank_GUI/compiled_FogBank_GUI/
-Image_Stitching/MIST_Performance_Evaluation/SSBD/HDD_results/
-Image_Stitching/MIST_Performance_Evaluation/overlap/HDD_results/
-Image_Stitching/MIST_Performance_Evaluation/low_memory_MIST_performance/results/
-Image_Stitching/MIST_Performance_Evaluation/limitations/*.png
-Image_Stitching/MIST_Performance_Evaluation/io_performance/results/
-Image_Stitching/MIST_Performance_Evaluation/grid_size/HDD_results/
-Image_Stitching/MIST_Performance_Evaluation/SSBD/SSD_results/
-Image_Stitching/MIST_Performance_Evaluation/figs/
+

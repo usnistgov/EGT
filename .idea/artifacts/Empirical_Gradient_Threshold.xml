@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Empirical_Gradient_Threshold">
+    <output-path>$PROJECT_DIR$/out/artifacts/Empirical_Gradient_Threshold</output-path>
+    <root id="archive" name="Empirical_Gradient_Threshold.jar">
+      <element id="module-output" name="EGT" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugins.config" />
+    </root>
+  </artifact>
+</component>

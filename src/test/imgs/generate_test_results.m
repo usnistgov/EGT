@@ -21,5 +21,3 @@ for min_cell_size = 100:100:200
     end
   end
 end
-
-
